@@ -1,0 +1,13 @@
+# Ignorar a pasta de saída com documentos extraídos
+Documentos_extraidos/
+
+# Ignorar diretórios de ambiente virtual (caso tenha um)
+venv/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.bak
+*.swp
+
+# Ignorar arquivos de configuração locais (se aplicável)
+*.env
