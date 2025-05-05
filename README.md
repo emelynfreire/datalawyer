@@ -51,11 +51,18 @@ python extrator.py
 ## 📊 Saída
 
 - Os arquivos `.txt` extraídos serão salvos na pasta `Documentos_extraidos/`.
+  - Exemplo de como aparecerá - exemplo de um documento processado
+    ![image](https://github.com/user-attachments/assets/94672232-a379-401d-8d11-eeb0e18a99ca)
+
 - Um relatório chamado `relatorio.txt` será gerado no diretório raiz, contendo:
   - Total de arquivos PDF e HTML processados
   - Número de sucessos e erros
   - Tempo médio por tipo de arquivo
   - Tempo total de execução
+ 
+- Modelo do relatório de um teste de execução real:
+![image](https://github.com/user-attachments/assets/59c9938a-0d1f-47c3-a3ed-74daa79b21bf)
+
 
 ---
 
